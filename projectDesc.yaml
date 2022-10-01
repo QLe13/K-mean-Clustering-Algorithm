@@ -1,0 +1,6 @@
+srcFile : Cluster.hs
+exeFile : cluster
+
+builtIns: []
+
+borings: []
